@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages for NJS's GitHub Practice
+## NJS's GitHub Practice
 
 You can use the [editor on GitHub](https://github.com/nzs5368/Sterge-184-Practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
